@@ -18,5 +18,5 @@
 		"./longer-bubble.js"
 	],
   "manifest": "https://raw.githubusercontent.com/jsavko/longer-chat-bubbles/main/module.json",
-  "download": ""
+  "download": "https://github.com/jsavko/longer-chat-bubbles/releases/download/0.1.0/module.zip"
 }
