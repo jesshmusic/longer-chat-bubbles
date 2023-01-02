@@ -4,7 +4,7 @@ Hooks.once('init', () => {
 
     game.settings.register("longer-chat-bubbles", "bubbleMinTime", {
       name: "Min Time",
-      hint: "Minimum amount of time in seconds chat messages",
+      hint: "Minimum amount of time in seconds for the chat bubble",
       scope: "client",
       config: true,
       type: Number,
@@ -17,7 +17,7 @@ Hooks.once('init', () => {
 
     game.settings.register("longer-chat-bubbles", "bubbleMaxTime", {
       name: "Max Time",
-      hint: "Maximum amount of time in seconds chat messages",
+      hint: "Maximum amount of time in seconds for the chat bubble",
       scope: "client",
       config: true,
       type: Number,
