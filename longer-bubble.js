@@ -16,7 +16,7 @@ Hooks.once('init', () => {
     });
 
     game.settings.register("longer-chat-bubbles", "bubbleMaxTime", {
-      name: "Min Time",
+      name: "Max Time",
       hint: "Maximum amount of time in seconds chat messages",
       scope: "client",
       config: true,
