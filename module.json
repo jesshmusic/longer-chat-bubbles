@@ -1,14 +1,14 @@
 {
   "id": "longer-chat-bubbles",
   "title": "Longer Chat Bubbles",
-  "description": "Increases duration chat bubbles are displayed",
+  "description": "Configure the duration of chat bubbles",
   "authors": [
     {
         "name": "James Savko",
         "discord": "Phoenix#0009"
     }
 ],
-  "version": "0.1.0",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": 10,
     "verified": "10.291"
